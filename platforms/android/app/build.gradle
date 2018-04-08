@@ -15,7 +15,7 @@ android {
         ndk {
             //abiFilters "armeabi", "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
 
-            // Limiting to a smaller set of  ABIs to save time while testing:
+            // Limiting to a smaller set of ABIs to save time while testing:
             abiFilters "armeabi-v7a"
         }
     }
