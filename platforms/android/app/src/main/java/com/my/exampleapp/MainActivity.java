@@ -1,4 +1,4 @@
-package com.my.exampleapp;
+package com.my.app;
 
 
 public class MainActivity extends org.libsdl.app.SDLActivity {
